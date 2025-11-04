@@ -1,0 +1,7 @@
+Mākslīgais intelekts (MI) ir tehnoloģiju nozare, kas strauji attīstās un pārveido daudzas dzīves jomas. MI sistēmas spēj mācīties no datiem, atpazīt modeļus un pieņemt lēmumus ar minimālu cilvēka iejaukšanos. Galvenās MI apakšnozares ietver mašīnmācīšanos, dziļo mācīšanos un dabiskās valodas apstrādi.
+
+Mašīnmācīšanās ir MI apakšnozare, kurā datori "mācās" no pieredzes, uzlabojot savu veiktspēju konkrētos uzdevumos bez eksplicītas programmēšanas. Dziļā mācīšanās izmanto mākslīgos neironu tīklus, kas atdarina cilvēka smadzeņu darbību, lai apstrādātu sarežģītus datus. Šīs tehnoloģijas tiek izmantotas bildžu atpazīšanā, balss asistentiem un autonomiem transportlīdzekļiem.
+
+Dabiskās valodas apstrāde (NLP) ļauj datoriem saprast, interpretēt un ģenerēt cilvēka valodu. NLP tiek izmantots virtuālajos asistentos, tulkošanas pakalpojumos un sentimenta analīzē. Modernās NLP sistēmas, piemēram, ChatGPT, var radīt koherentus un kontekstuāli atbilstošus tekstus.
+
+MI tehnoloģijām ir milzīgs potenciāls veselības aprūpē, izglītībā, finansēs un daudzās citās jomās. Tomēr tās rada arī ētiskus jautājumus par privātumu, darba vietām un lēmumu pieņemšanas pārredzamību. Ir svarīgi attīstīt MI atbildīgi, ņemot vērā gan tā priekšrocības, gan iespējamos riskus.
